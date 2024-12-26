@@ -1,0 +1,741 @@
+{
+  "professionals": "Professionnels",
+  "menu": {
+    "title": "Menu Principal",
+    "navigation": {
+      "home": "Accueil",
+      "services": "Services",
+      "messages": "Messages",
+      "notifications": "Notifications",
+      "menu": "Menu"
+    },
+    "sections": {
+      "profile": {
+        "title": "Profil",
+        "settings": "Paramètres",
+        "yourprofile": "Votre profil",
+        "viewprofile": "Voir le profil",
+        "manageaccount": "Gérer le compte"
+      },
+      "support": {
+        "title": "Assistance",
+        "helpcenter": "Centre d'aide",
+        "gethelp": "Obtenir de l'aide"
+      },
+      "account": {
+        "title": "Compte",
+        "signin": "Se connecter",
+        "signindesc": "Connectez-vous à votre compte",
+        "createaccount": "Créer un compte",
+        "createaccountdesc": "Rejoignez notre communauté",
+        "signout": "Se déconnecter",
+        "signoutdesc": "Déconnectez-vous de votre compte"
+      },
+      "findwork": {
+        "title": "Trouver du travail",
+        "browseservices": "Parcourir les services",
+        "exploreservices": "Explorer les services",
+        "findfreelancers": "Trouver des freelances",
+        "connectprofessionals": "Se connecter avec des professionnels"
+      }
+    },
+    "theme": {
+      "title": "Thème",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système"
+    },
+    "language": {
+      "title": "Langue",
+      "current": "Langue actuelle",
+      "switch": "Changer de langue",
+      "en": "Anglais",
+      "fr": "Français",
+      "ar": "العربية"
+    },
+    "welcome": {
+      "authenticated": {
+        "title": "{{name}}"
+      },
+      "guest": {
+        "title": "Bienvenue",
+        "subtitle": "Connectez-vous pour commencer"
+      }
+    },
+    "settings": {
+      "title": "Paramètres",
+      "appearance": "Apparence",
+      "appearanceDesc": "Personnalisez l'apparence de l'application",
+      "general": "Général",
+      "generalDesc": "Paramètres généraux du compte",
+      "notificationsDesc": "Gérez vos notifications",
+      "privacy": "Confidentialité",
+      "privacyDesc": "Gérez vos paramètres de confidentialité",
+      "notifications": "Notifications",
+      "description": "Gérer vos préférences",
+      "language": {
+        "title": "Langue"
+      },
+      "theme": {
+        "title": "Thème",
+        "light": "Clair",
+        "dark": "Sombre",
+        "system": "Système"
+      }
+    }
+  },
+  "brand": {
+    "name": "Visible",
+    "slogan": {
+      "illuminate": "Illuminer le Talent",
+      "emerge": "Émerger & Exceller"
+    },
+    "tagline": "Connectez-vous avec des talents locaux",
+    "description": "La plateforme qui met en relation les professionnels qualifiés avec les clients à la recherche de services de qualité",
+    "activeUsers": "Utilisateurs actifs",
+    "joinCommunity": "Rejoignez notre communauté",
+    "feature1title": "Talents Locaux",
+    "feature1description": "Trouvez des professionnels qualifiés près de chez vous",
+    "feature2title": "Paiements Sécurisés",
+    "feature2description": "Transactions sûres et protégées",
+    "feature3title": "Prix Équitables",
+    "feature3description": "Des tarifs compétitifs sans frais cachés"
+  },
+  "nav": {
+    "guest": "Invité",
+    "dashboard": "Tableau de bord",
+    "messages": "Messages",
+    "settings": "Paramètres",
+    "feedback": "Donner un avis",
+    "search": "Rechercher",
+    "searchDialog": {
+      "categories": {
+        "services": "Services",
+        "freelancers": "Freelances",
+        "projects": "Projets"
+      }
+    },
+    "searchShortcut": "Recherche rapide",
+    "searchdescription": "Recherchez des services, des freelances et des projets",
+    "profile": "Profil",
+    "discover": "Découvrir",
+    "services": "Services",
+    "freelancers": "Freelances",
+    "projects": "Projets",
+    "community": "Communauté",
+    "about": "À propos",
+    "menu": {
+      "account": "Compte",
+      "work": "Travail"
+    },
+    "signin": "Se connecter",
+    "signup": "S'inscrire",
+    "helpandsupport": "Aide et support",
+    "signout": "Se déconnecter",
+    "searchdialog": {
+      "title": "Rechercher",
+      "description": "Recherchez des services, des freelances ou des projets",
+      "placeholder": "Que recherchez-vous ?",
+      "noresults": "Aucun résultat trouvé",
+      "trending": "Tendances",
+      "recent": "Récent"
+    },
+    "myprojects": "Mes projets",
+    "searchplaceholder": "Rechercher...",
+    "usermenu": "Menu utilisateur",
+    "getstarted": "Commencer",
+    "signintoaccess": "Connectez-vous pour accéder"
+  },
+  "home": {
+    "hero": {
+      "title": {
+        "start": "Trouvez des",
+        "highlight": "Professionnels Locaux",
+        "end": "pour Chaque Projet"
+      },
+      "subtitle": "Connectez-vous avec des freelances talentueux et des prestataires de services locaux pour tous vos besoins numériques et d'amélioration de l'habitat",
+      "popular": "Populaire",
+      "popularservices": {
+        "webdev": "Développement Web",
+        "graphicdesign": "Design Graphique",
+        "plumbing": "Plomberie",
+        "electrical": "Électricité"
+      },
+      "search": {
+        "input": {
+          "placeholder": "Recherchez des services, des freelances..."
+        },
+        "buttons": {
+          "search": "Rechercher",
+          "filters": "Filtres",
+          "show": "Afficher",
+          "reset": "Réinitialiser",
+          "apply": "Appliquer",
+          "viewmap": "Voir la carte"
+        },
+        "filters": {
+          "title": "Filtres",
+          "categories": {
+            "label": "Catégories",
+            "placeholder": "Sélectionner des catégories",
+            "title": "Catégories de services"
+          },
+          "skills": {
+            "label": "Compétences",
+            "placeholder": "Sélectionner des compétences"
+          },
+          "location": {
+            "label": "Localisation",
+            "placeholder": "Sélectionner une localisation"
+          },
+          "budget": {
+            "label": "Budget",
+            "placeholder": "Sélectionner un budget",
+            "title": "Fourchette de budget",
+            "under": "Moins de",
+            "between": "Entre",
+            "above": "Plus de",
+            "options": {
+              "low": "Économique",
+              "mid": "Modéré",
+              "high": "Premium"
+            }
+          },
+          "availability": {
+            "label": "Disponibilité",
+            "placeholder": "Sélectionner une disponibilité",
+            "title": "Disponibilité",
+            "options": {
+              "immediate": "Immédiate",
+              "today": "Aujourd'hui",
+              "this_week": "Cette semaine",
+              "next_week": "Semaine prochaine"
+            }
+          },
+          "experience": {
+            "label": "Expérience",
+            "placeholder": "Sélectionner un niveau d'expérience",
+            "title": "Niveau d'expérience",
+            "options": {
+              "entry": "Débutant",
+              "intermediate": "Intermédiaire",
+              "expert": "Expert"
+            }
+          },
+          "buttons": {
+            "reset": "Réinitialiser les filtres",
+            "show": "Afficher les résultats"
+          }
+        }
+      }
+    },
+    "trust": {
+      "title": "Reconnu à Travers l'Algérie",
+      "subtitle": "Connecter les professionnels et les clients dans les 48 wilayas",
+      "stats": {
+        "professionals": {
+          "value": "15K+",
+          "label": "Professionnels Actifs"
+        },
+        "projects": {
+          "value": "25K+",
+          "label": "Projets Réalisés"
+        },
+        "rating": {
+          "value": "4.8/5",
+          "label": "Note Moyenne"
+        },
+        "coverage": {
+          "value": "48",
+          "label": "Wilayas Couvertes"
+        }
+      },
+      "media": {
+        "title": "Présent dans les Médias Leaders",
+        "subtitle": "Notre plateforme a été reconnue par les principaux médias algériens et internationaux",
+        "viewall": "Voir toute la couverture presse",
+        "partners": {
+          "echorouk": {
+            "name": "Echorouk",
+            "type": "Journal quotidien",
+            "reach": "2M+ lecteurs"
+          },
+          "liberte": {
+            "name": "Liberté",
+            "type": "Journal quotidien",
+            "reach": "1.5M+ lecteurs"
+          },
+          "tsa": {
+            "name": "TSA",
+            "type": "Média en ligne",
+            "reach": "3M+ visiteurs"
+          },
+          "elwatan": {
+            "name": "El Watan",
+            "type": "Journal quotidien",
+            "reach": "1M+ lecteurs"
+          },
+          "elkhabar": {
+            "name": "El Khabar",
+            "type": "Journal quotidien",
+            "reach": "2.5M+ lecteurs"
+          },
+          "dzentreprise": {
+            "name": "DZ Entreprise",
+            "type": "Magazine économique",
+            "reach": "500K+ lecteurs"
+          }
+        }
+      }
+    },
+    "categories": {
+      "title": "Services Populaires",
+      "subtitle": "Parcourez nos services numériques et domestiques les plus demandés",
+      "types": {
+        "digital": "Service Numérique",
+        "home": "Service à Domicile"
+      },
+      "cta": {
+        "digital": "Engager",
+        "home": "Réserver"
+      },
+      "count": "professionnels",
+      "items": {
+        "webDev": {
+          "title": "Développement Web",
+          "description": "Sites web, applications et solutions e-commerce"
+        },
+        "graphicDesign": {
+          "title": "Design Graphique",
+          "description": "Logos, branding et supports marketing"
+        },
+        "plumbing": {
+          "title": "Plomberie",
+          "description": "Installation, réparation et maintenance"
+        },
+        "electrical": {
+          "title": "Électricité",
+          "description": "Installation électrique et dépannage"
+        }
+      }
+    },
+    "features": {
+      "title": "Pourquoi Choisir Notre Plateforme",
+      "subtitle": "Nous vous mettons en relation avec des professionnels vérifiés pour tous vos besoins",
+      "items": {
+        "localTalent": {
+          "title": "Talents Locaux",
+          "description": "Trouvez des professionnels qualifiés près de chez vous"
+        },
+        "securePayments": {
+          "title": "Paiements Sécurisés",
+          "description": "Transactions protégées et garanties"
+        },
+        "qualityWork": {
+          "title": "Travail de Qualité",
+          "description": "Services professionnels garantis"
+        }
+      }
+    },
+    "professionals": {
+      "title": "Professionnels les Mieux Notés",
+      "subtitle": "Travaillez avec les meilleurs talents en Algérie",
+      "rating": "Note",
+      "reviews": "Avis",
+      "badges": {
+        "toprated": "Très bien noté",
+        "quickresponse": "Réponse rapide",
+        "licensedpro": "Pro certifié",
+        "topratedplus": "Top Pro Plus"
+      },
+      "browseall": "Voir tous les professionnels"
+    },
+    "settings": {
+      "title": "Paramètres",
+      "description": "Gérez vos préférences d'application",
+      "language": {
+        "title": "Langue",
+        "description": "Sélectionnez votre langue préférée",
+        "system": "Système"
+      }
+    },
+    "successstories": {
+      "title": "Histoires de Réussite",
+      "subtitle": "Découvrez comment Visible aide les entreprises et les professionnels à réussir",
+      "stories": {
+        "techstartup": {
+          "client": "Startup Tech",
+          "service": "Développement Web",
+          "professional": "Ahmed B.",
+          "description": "Une startup technologique en pleine croissance avait besoin d'un développeur web expérimenté pour créer leur site vitrine.",
+          "result": "Le site a été livré en 3 semaines, augmentant les conversions de 150%."
+        },
+        "villaowner": {
+          "client": "Propriétaire de Villa",
+          "service": "Plomberie",
+          "professional": "Karim M.",
+          "description": "Un propriétaire de villa avait besoin d'une rénovation complète de sa plomberie dans des délais serrés.",
+          "result": "Tous les travaux ont été terminés en 5 jours, économisant 30% sur le budget initial."
+        },
+        "restaurant": {
+          "client": "Restaurant Local",
+          "service": "Design Graphique",
+          "professional": "Sarah L.",
+          "description": "Un restaurant local cherchait à moderniser son identité visuelle pour attirer plus de clients.",
+          "result": "Le nouveau design a augmenté la fréquentation de 75% en deux mois."
+        }
+      },
+      "types": {
+        "digital": "Services Numériques",
+        "home": "Services à Domicile"
+      }
+    },
+    "howItWorks": {
+      "steps": {
+        "describe": {
+          "title": "Décrivez votre projet",
+          "description": "Expliquez vos besoins en détail",
+          "benefits": [
+            "Spécifiez vos exigences",
+            "Définissez votre budget",
+            "Indiquez vos délais"
+          ],
+          "cta": "Commencer"
+        },
+        "compare": {
+          "title": "Comparez les offres",
+          "description": "Recevez des devis de professionnels",
+          "benefits": [
+            "Évaluez les profils",
+            "Comparez les tarifs",
+            "Lisez les avis"
+          ],
+          "cta": "Voir les professionnels"
+        },
+        "connect": {
+          "title": "Connectez-vous",
+          "description": "Discutez avec les professionnels",
+          "benefits": [
+            "Échangez directement",
+            "Affinez les détails",
+            "Planifiez le travail"
+          ],
+          "cta": "Commencer la discussion"
+        },
+        "complete": {
+          "title": "Finalisez le projet",
+          "description": "Travaillez et payez en toute sécurité",
+          "benefits": [
+            "Suivez l'avancement",
+            "Paiement sécurisé",
+            "Évaluez le service"
+          ],
+          "cta": "Terminer"
+        }
+      }
+    },
+    "howitworks": {
+      "title": "Comment ça marche",
+      "subtitle": "Un processus simple en 4 étapes",
+      "client": "Pour les clients",
+      "professional": "Pour les professionnels",
+      "bottomctatext": "Prêt à commencer ?",
+      "bottomcta": {
+        "postproject": "Poster un projet",
+        "becomeprofessional": "Devenir professionnel"
+      }
+    }
+  },
+  "dashboard": {
+    "nav": {
+      "overview": "Vue d'ensemble",
+      "projects": "Projets",
+      "messages": "Messages",
+      "settings": "Paramètres",
+      "earnings": "Gains",
+      "reviews": "Avis",
+      "availability": "Disponibilité"
+    },
+    "overview": {
+      "title": "Vue d'ensemble",
+      "subtitle": "Voici un aperçu de votre activité"
+    },
+    "actions": {
+      "editprofile": "Modifier le profil",
+      "viewprofile": "Voir le profil"
+    },
+    "stats": {
+      "earnings": "Gains Totaux",
+      "messages": "Nouveaux Messages",
+      "rating": "Note Globale",
+      "activeprojects": "Projets Actifs",
+      "activeprojectsdesc": "Nombre de projets en cours",
+      "earningsdesc": "Vos gains totaux ce mois-ci",
+      "messagesdesc": "Messages non lus dans votre boîte de réception",
+      "ratingdesc": "Votre note moyenne des clients"
+    },
+    "earnings": {
+      "title": "Gains",
+      "viewreport": "Voir le rapport",
+      "chartplaceholder": "Graphique des gains"
+    },
+    "recentactivity": {
+      "title": "Activité récente",
+      "empty": "Aucune activité récente"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "description": "Gérer vos préférences et paramètres de compte",
+    "language": {
+      "title": "Langue",
+      "description": "Choisissez votre langue préférée",
+      "system": "Utiliser la langue du système"
+    },
+    "theme": {
+      "title": "Thème",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système",
+      "lightDescription": "Utiliser le mode clair pour l'interface",
+      "darkDescription": "Utiliser le mode sombre pour l'interface",
+      "systemDescription": "Correspondre automatiquement au thème système"
+    }
+  },
+  "auth": {
+    "createFreelancerAccount": "Créez votre compte freelance et commencez à proposer vos services",
+    "createClientAccount": "Créez votre compte client et commencez à trouver des freelances talentueux",
+    "steps": {
+      "basicinfo": "Informations de base",
+      "professional": "Détails professionnels",
+      "experience": "Expérience",
+      "company": "Détails de l'entreprise",
+      "project": "Détails du projet"
+    },
+    "fields": {
+      "name": "Nom",
+      "email": "Adresse e-mail",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "profession": "Profession",
+      "experience": "Expérience",
+      "skills": "Compétences",
+      "bio": "Biographie",
+      "location": "Localisation",
+      "hourlyRate": "Taux horaire",
+      "companyName": "Nom de l'entreprise",
+      "industry": "Secteur d'activité",
+      "companySize": "Taille de l'entreprise"
+    },
+    "placeholders": {
+      "name": "Entrez votre nom complet",
+      "email": "name@example.com",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmez votre mot de passe"
+    },
+    "validation": {
+      "nameRequired": "Le nom est requis",
+      "emailInvalid": "Adresse e-mail invalide",
+      "passwordRequired": "Le mot de passe doit contenir au moins 8 caractères",
+      "passwordsDoNotMatch": "Les mots de passe ne correspondent pas"
+    },
+    "buttons": {
+      "back": "Retour",
+      "submit": "Soumettre",
+      "next": "Suivant",
+      "signin": "Se connecter"
+    },
+    "passwordstrength": {
+      "weak": "Faible",
+      "fair": "Moyen",
+      "good": "Bon",
+      "strong": "Fort"
+    },
+    "byclickingcontinue": "En cliquant sur continuer, vous acceptez nos",
+    "termsNotice": "En continuant, vous acceptez nos conditions d'utilisation",
+    "createaccount": "Créer un compte",
+    "createaccountdescription": "Rejoignez notre communauté de professionnels",
+    "chooseaccounttype": "Choisissez votre type de compte",
+    "accounttypedescription": "Sélectionnez le type de compte qui vous correspond le mieux",
+    "clienttitle": "Client",
+    "clientdescription": "Je cherche des services professionnels",
+    "freelancertitle": "Professionnel",
+    "freelancerdescription": "Je propose mes services professionnels",
+    "success": "Succès !",
+    "successdescription": "Votre compte a été créé avec succès",
+    "error": "Erreur",
+    "errordescription": "Une erreur est survenue. Veuillez réessayer.",
+    "or": "ou",
+    "privacy": "conditions d'utilisation et notre politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "privacyPolicy": "Politique de confidentialité",
+    "and": "et",
+    "errors": {
+      "required": "Ce champ est requis",
+      "invalidEmail": "Email invalide",
+      "passwordMismatch": "Les mots de passe ne correspondent pas",
+      "minLength": "Doit contenir au moins {{count}} caractères",
+      "maxLength": "Doit contenir au maximum {{count}} caractères"
+    },
+    "continuewithfacebook": "Continuer avec Facebook",
+    "continuewithgoogle": "Continuer avec Google",
+    "welcomeback": "Bon retour",
+    "signindescription": "Connectez-vous à votre compte",
+    "orcontinuewith": "Ou continuer avec",
+    "forgotpassword": "Mot de passe oublié ?",
+    "signin": "Se connecter",
+    "noaccount": "Vous n'avez pas de compte ?",
+    "rememberMe": "Se souvenir de moi",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "signUp": "S'inscrire",
+    "namePlaceholder": "Votre nom complet",
+    "emailPlaceholder": "Votre adresse email",
+    "passwordPlaceholder": "Votre mot de passe",
+    "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+    "selectProfession": "Sélectionnez votre profession",
+    "selectExperience": "Sélectionnez votre expérience",
+    "skillsPlaceholder": "Vos compétences",
+    "bioPlaceholder": "Parlez-nous de vous",
+    "locationPlaceholder": "Votre localisation",
+    "hourlyRatePlaceholder": "Votre taux horaire",
+    "companyNamePlaceholder": "Nom de votre entreprise",
+    "selectIndustry": "Sélectionnez votre secteur d'activité",
+    "selectCompanySize": "Taille de l'entreprise"
+  },
+  "welcomeBack": "Bienvenue",
+  "signInDescription": "Entrez vos identifiants pour accéder à votre compte",
+  "noAccount": "Vous n'avez pas de compte ?",
+  "haveAccount": "Vous avez déjà un compte ?",
+  "signIn": "Se connecter",
+  "signUp": "S'inscrire",
+  "name": "Nom complet",
+  "namePlaceholder": "Entrez votre nom complet",
+  "email": "Email",
+  "emailPlaceholder": "nom@exemple.com",
+  "password": "Mot de passe",
+  "passwordPlaceholder": "Entrez votre mot de passe",
+  "forgotPassword": "Mot de passe oublié ?",
+  "profession": "Profession",
+  "selectProfession": "Sélectionnez votre profession",
+  "experience": "Années d'expérience",
+  "selectExperience": "Sélectionnez votre expérience",
+  "skills": "Compétences",
+  "skillsPlaceholder": "ex: JavaScript, React, UI Design",
+  "bio": "Bio",
+  "bioPlaceholder": "Parlez-nous de vous et de votre expérience",
+  "location": "Localisation",
+  "locationPlaceholder": "ex: Paris, France",
+  "hourlyRate": "Taux horaire (€)",
+  "hourlyRatePlaceholder": "Entrez votre taux horaire",
+  "companyName": "Nom de l'entreprise",
+  "companyNamePlaceholder": "Entrez le nom de votre entreprise",
+  "industry": "Secteur d'activité",
+  "selectIndustry": "Sélectionnez votre secteur d'activité",
+  "companySize": "Taille de l'entreprise",
+  "selectCompanySize": "Sélectionnez la taille de l'entreprise",
+  "continueWithGoogle": "Continuer avec Google",
+  "continueWithFacebook": "Continuer avec Facebook",
+  "orContinueWith": "ou continuer avec",
+  "termsNotice": "En cliquant sur continuer, vous acceptez nos",
+  "terms": "Conditions d'utilisation",
+  "privacyPolicy": "Politique de confidentialité",
+  "and": "et",
+  "errors": {
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Veuillez entrer une adresse email valide",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "minLength": "Doit contenir au moins {{count}} caractères",
+    "maxLength": "Doit contenir au maximum {{count}} caractères"
+  },
+  "landing": {
+    "headline": "Connectez-vous avec les Meilleurs Talents",
+    "subheadline": "Rejoignez notre place de marché mondiale de professionnels et d'entreprises qualifiés. Trouvez du travail ou recrutez des experts dans différents domaines.",
+    "features": {
+      "verifiedProfessionals": {
+        "title": "Professionnels Vérifiés",
+        "description": "Tous les professionnels sont soigneusement évalués et vérifiés pour garantir la qualité."
+      },
+      "securePayments": {
+        "title": "Paiements Sécurisés",
+        "description": "Traitement des paiements sûr et sécurisé avec protection par séquestre."
+      },
+      "fairPricing": {
+        "title": "Prix Équitables",
+        "description": "Tarifs compétitifs sans frais cachés ni surcharges."
+      }
+    }
+  },
+  "common": {
+    "next": "Suivant",
+    "back": "Retour"
+  },
+  "search": {
+    "input": {
+      "placeholder": "Que recherchez-vous ?"
+    },
+    "buttons": {
+      "search": "Rechercher",
+      "filters": "Filtres",
+      "show": "Afficher",
+      "reset": "Réinitialiser",
+      "apply": "Appliquer",
+      "viewmap": "Voir la carte"
+    },
+    "filters": {
+      "title": "Filtres",
+      "categories": {
+        "label": "Catégories",
+        "placeholder": "Sélectionner des catégories",
+        "title": "Catégories de services"
+      },
+      "skills": {
+        "label": "Compétences",
+        "placeholder": "Sélectionner des compétences"
+      },
+      "location": {
+        "label": "Localisation",
+        "placeholder": "Sélectionner une localisation"
+      },
+      "budget": {
+        "label": "Budget",
+        "placeholder": "Sélectionner un budget",
+        "title": "Fourchette de budget",
+        "under": "Moins de",
+        "between": "Entre",
+        "above": "Plus de",
+        "options": {
+          "low": "Économique",
+          "mid": "Modéré",
+          "high": "Premium"
+        }
+      },
+      "availability": {
+        "label": "Disponibilité",
+        "placeholder": "Sélectionner une disponibilité",
+        "title": "Disponibilité",
+        "options": {
+          "immediate": "Immédiate",
+          "today": "Aujourd'hui",
+          "this_week": "Cette semaine",
+          "next_week": "Semaine prochaine"
+        }
+      },
+      "experience": {
+        "label": "Expérience",
+        "placeholder": "Sélectionner un niveau d'expérience",
+        "title": "Niveau d'expérience",
+        "options": {
+          "entry": "Débutant",
+          "intermediate": "Intermédiaire",
+          "expert": "Expert"
+        }
+      },
+      "buttons": {
+        "reset": "Réinitialiser",
+        "show": "Afficher les résultats"
+      }
+    }
+  },
+  "client": "Client",
+  "freelancer": "Freelance"
+}

@@ -1,0 +1,646 @@
+{
+  "professionals": "المحترفون",
+  "menu": {
+    "title": "القائمة",
+    "navigation": {
+      "home": "الرئيسية",
+      "services": "الخدمات",
+      "messages": "الرسائل",
+      "notifications": "الإشعارات",
+      "menu": "القائمة"
+    },
+    "sections": {
+      "profile": {
+        "title": "الملف الشخصي",
+        "settings": "الإعدادات",
+        "yourprofile": "ملفك الشخصي",
+        "viewprofile": "عرض وتعديل ملفك الشخصي",
+        "manageaccount": "إدارة حسابك"
+      },
+      "findWork": {},
+      "support": {
+        "title": "الدعم",
+        "helpcenter": "مركز المساعدة",
+        "gethelp": "احصل على المساعدة والدعم"
+      },
+      "account": {
+        "title": "الحساب",
+        "signin": "تسجيل الدخول",
+        "signindesc": "الوصول إلى حسابك",
+        "createaccount": "إنشاء حساب",
+        "createaccountdesc": "انضم إلى مجتمعنا",
+        "signout": "تسجيل الخروج",
+        "signoutdesc": "تسجيل الخروج من حسابك"
+      },
+      "findwork": {
+        "title": "ابحث عن عمل",
+        "browseservices": "تصفح الخدمات",
+        "exploreservices": "استكشف الخدمات المتاحة",
+        "findfreelancers": "ابحث عن المستقلين",
+        "connectprofessionals": "تواصل مع المحترفين"
+      }
+    },
+    "theme": {
+      "title": "المظهر",
+      "light": "فاتح",
+      "dark": "داكن",
+      "system": "النظام"
+    },
+    "language": {
+      "title": "اللغة",
+      "current": "اللغة الحالية: {{language}}",
+      "switch": "التبديل إلى {{language}}",
+      "en": "الإنجليزية",
+      "fr": "الفرنسية",
+      "ar": "العربية"
+    },
+    "welcome": {
+      "authenticated": {
+        "title": "{{name}}"
+      },
+      "guest": {
+        "title": "مرحباً بك في فيزيبل",
+        "subtitle": "سجل دخولك للوصول إلى جميع الميزات"
+      }
+    },
+    "settings": {
+      "title": "الإعدادات",
+      "appearance": "المظهر",
+      "appearanceDesc": "تخصيص مظهر التطبيق",
+      "general": "عام",
+      "generalDesc": "الإعدادات العامة للتطبيق",
+      "notifications": "الإشعارات",
+      "notificationsDesc": "إدارة تفضيلات الإشعارات",
+      "privacy": "الخصوصية",
+      "privacyDesc": "إدارة إعدادات الخصوصية",
+      "theme": {
+        "title": "المظهر",
+        "light": "فاتح",
+        "dark": "داكن",
+        "system": "النظام"
+      },
+      "description": "إدارة التفضيلات",
+      "language": {
+        "title": "اللغة"
+      }
+    }
+  },
+  "nav": {
+    "guest": "زائر",
+    "dashboard": "لوحة التحكم",
+    "messages": "الرسائل",
+    "services": "الخدمات",
+    "settings": "الإعدادات",
+    "feedback": "إرسال ملاحظات",
+    "search": "بحث",
+    "searchDialog": {
+      "categories": {
+        "services": "الخدمات",
+        "freelancers": "المستقلون",
+        "projects": "المشاريع"
+      }
+    },
+    "searchShortcut": "اضغط ⌘K للبحث",
+    "profile": "الملف الشخصي",
+    "discover": "اكتشف",
+    "freelancers": "المستقلون",
+    "projects": "المشاريع",
+    "community": "المجتمع",
+    "about": "حول",
+    "menu": {
+      "account": "الحساب",
+      "work": "العمل"
+    },
+    "signin": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "helpandsupport": "المساعدة والدعم",
+    "signout": "تسجيل الخروج",
+    "searchdialog": {
+      "title": "بحث",
+      "description": "ابحث عن الخدمات والمستقلين والمشاريع",
+      "placeholder": "اكتب للبحث...",
+      "noresults": "لم يتم العثور على نتائج",
+      "trending": "عمليات البحث الشائعة",
+      "recent": "عمليات البحث الأخيرة"
+    },
+    "myprojects": "مشاريعي",
+    "searchplaceholder": "ابحث عن خدمات، مستقلين...",
+    "usermenu": "قائمة المستخدم",
+    "getstarted": "ابدأ الآن",
+    "signintoaccess": "سجل الدخول للوصول إلى حسابك",
+    "searchdescription": "ابحث عن الخدمات والمستقلين والمشاريع"
+  },
+  "brand": {
+    "name": "فيزيبل",
+    "slogan": {
+      "illuminate": "إضاءة المواهب",
+      "emerge": "التألق والتميز"
+    },
+    "tagline": "تواصل مع أفضل المواهب",
+    "description": "انضم إلى سوقنا العالمي للمهنيين والشركات المتخصصة. ابحث عن عمل أو وظّف خبراء في مختلف المجالات.",
+    "feature1title": "مهنيون معتمدون",
+    "feature1description": "جميع المهنيين تم التحقق منهم وتدقيقهم لضمان الجودة.",
+    "feature2title": "مدفوعات آمنة",
+    "feature2description": "معالجة مدفوعات آمنة ومضمونة مع حماية الضمان.",
+    "feature3title": "أسعار عادلة",
+    "feature3description": "أسعار تنافسية بدون رسوم خفية أو تكاليف إضافية",
+    "activeUsers": "مستخدم نشط",
+    "joinCommunity": "انضم إلى مجتمعنا"
+  },
+  "home": {
+    "hero": {
+      "title": {
+        "start": "ابحث عن",
+        "highlight": "محترفين محليين",
+        "end": "لكل مشروع"
+      },
+      "subtitle": "تواصل مع المستقلين الموهوبين ومقدمي الخدمات المحليين لجميع احتياجاتك الرقمية وتحسين المنزل",
+      "popular": "الأكثر شعبية",
+      "popularservices": {
+        "webdev": "تطوير الويب",
+        "graphicdesign": "التصميم الجرافيكي",
+        "plumbing": "السباكة",
+        "electrical": "الكهرباء"
+      },
+      "search": {
+        "placeholder": "ما هي الخدمة التي تبحث عنها؟"
+      }
+    },
+    "trust": {
+      "title": "موثوق به في جميع أنحاء الجزائر",
+      "subtitle": "نربط المحترفين والعملاء في جميع الولايات الـ 48",
+      "stats": {
+        "professionals": {
+          "value": "+15K",
+          "label": "محترف نشط"
+        },
+        "projects": {
+          "value": "+25K",
+          "label": "مشروع مكتمل"
+        },
+        "rating": {
+          "value": "4.8/5",
+          "label": "متوسط التقييم"
+        },
+        "coverage": {
+          "value": "48",
+          "label": "ولاية مغطاة"
+        }
+      },
+      "media": {
+        "title": "ظهر في وسائل الإعلام الرائدة",
+        "subtitle": "تم الاعتراف بمنصتنا من قبل وسائل الإعلام الجزائرية والدولية الرئيسية",
+        "viewall": "عرض جميع التغطيات الصحفية",
+        "partners": {
+          "echorouk": {
+            "name": "الشروق",
+            "type": "جريدة يومية",
+            "reach": "+2M قارئ"
+          },
+          "liberte": {
+            "name": "ليبرتي",
+            "type": "جريدة يومية",
+            "reach": "+1.5M قارئ"
+          },
+          "tsa": {
+            "name": "تي إس أي",
+            "type": "موقع إخباري",
+            "reach": "+3M زائر"
+          },
+          "elwatan": {
+            "name": "الوطن",
+            "type": "جريدة يومية",
+            "reach": "+1M قارئ"
+          },
+          "elkhabar": {
+            "name": "الخبر",
+            "type": "جريدة يومية",
+            "reach": "+2.5M قارئ"
+          },
+          "dzentreprise": {
+            "name": "دي زد أنتربريز",
+            "type": "مجلة اقتصادية",
+            "reach": "+500K قارئ"
+          }
+        }
+      }
+    },
+    "categories": {
+      "title": "الخدمات الشائعة",
+      "subtitle": "تصفح خدماتنا الرقمية والمنزلية الأكثر طلباً",
+      "types": {
+        "digital": "خدمة رقمية",
+        "home": "خدمة منزلية"
+      },
+      "cta": {
+        "digital": "وظّف الآن",
+        "home": "احجز الآن"
+      },
+      "count": "محترف",
+      "items": {
+        "webDev": {
+          "title": "تطوير الويب",
+          "description": "مواقع الويب والتطبيقات وحلول التجارة الإلكترونية"
+        },
+        "graphicDesign": {
+          "title": "التصميم الجرافيكي",
+          "description": "الشعارات والعلامات التجارية والمواد التسويقية"
+        },
+        "plumbing": {
+          "title": "السباكة",
+          "description": "التركيب والإصلاح والصيانة"
+        },
+        "electrical": {
+          "title": "الكهرباء",
+          "description": "التركيبات والإصلاحات الكهربائية"
+        }
+      }
+    },
+    "features": {
+      "title": "لماذا تختار منصتنا",
+      "subtitle": "نربطك بمحترفين موثوقين لجميع احتياجات مشروعك",
+      "items": {
+        "localTalent": {
+          "title": "مواهب محلية",
+          "description": "اعثر على محترفين مؤهلين بالقرب منك"
+        },
+        "securePayments": {
+          "title": "مدفوعات آمنة",
+          "description": "معاملات محمية ومضمونة مع حماية الضمان."
+        },
+        "qualityWork": {
+          "title": "عمل عالي الجودة",
+          "description": "خدمات احترافية مضمونة"
+        }
+      }
+    },
+    "professionals": {
+      "title": "المحترفون الأعلى تقييماً",
+      "subtitle": "اعمل مع أفضل المواهب في الجزائر",
+      "rating": "التقييم",
+      "reviews": "المراجعات",
+      "badges": {
+        "toprated": "الأعلى تقييماً",
+        "quickresponse": "رد سريع",
+        "licensedpro": "محترف معتمد",
+        "topratedplus": "الأفضل تقييماً بلس"
+      },
+      "browseall": "عرض جميع المحترفين"
+    },
+    "howItWorks": {
+      "steps": {
+        "describe": {
+          "title": "وصف احتياجاتك",
+          "description": "أخبرنا بما تحتاج إليه، سواء كانت خدمة محددة أو مشروع مخصص",
+          "benefits": [
+            "مواصفات مشروع مفصلة",
+            "مرونة في الميزانية",
+            "تخطيط الجدول الزمني"
+          ],
+          "cta": "نشر مشروع"
+        },
+        "compare": {
+          "title": "مقارنة الخيارات",
+          "description": "راجع عروض المحترفين وقارن ملفاتهم الشخصية",
+          "benefits": [
+            "محترفون موثقون",
+            "ملفات تعريف مفصلة",
+            "تقييمات العملاء"
+          ],
+          "cta": "تصفح الملفات"
+        },
+        "connect": {
+          "title": "تواصل وناقش",
+          "description": "تحدث مع المحترفين لتحسين تفاصيل مشروعك",
+          "benefits": [
+            "مراسلة آمنة",
+            "مشاركة الملفات",
+            "مكالمات فيديو"
+          ],
+          "cta": "بدء المحادثة"
+        },
+        "complete": {
+          "title": "إكمال المشروع",
+          "description": "اعمل مع المحترف المختار وأنجز المهمة",
+          "benefits": [
+            "تتبع المراحل",
+            "مدفوعات آمنة",
+            "ضمان الجودة"
+          ],
+          "cta": "ابدأ الآن"
+        }
+      },
+      "bottomCta": {}
+    },
+    "howitworks": {
+      "title": "كيف يعمل فيزيبل",
+      "subtitle": "سواء كنت تبحث عن توظيف أو مستعد للعمل، فيزيبل يجعل الأمر بسيطاً. اختر مسارك:",
+      "client": "أنا عميل",
+      "professional": "أنا محترف",
+      "bottomctatext": "انضم إلى آلاف العملاء الراضين",
+      "bottomcta": {
+        "postproject": "نشر مشروع",
+        "becomeprofessional": "كن محترفاً"
+      }
+    },
+    "settings": {
+      "title": "الإعدادات",
+      "description": "إدارة تفضيلات التطبيق",
+      "language": {
+        "title": "اللغة",
+        "description": "اختر لغتك المفضلة",
+        "system": "النظام"
+      }
+    },
+    "successstories": {
+      "title": "قصص النجاح",
+      "subtitle": "اكتشف كيف يساعد فيزيبل الشركات والمهنيين على النجاح",
+      "stories": {
+        "techstartup": {
+          "client": "شركة تكنولوجيا ناشئة",
+          "service": "تطوير الويب",
+          "professional": "أحمد ب.",
+          "description": "شركة تكنولوجيا ناشئة في مرحلة النمو كانت بحاجة إلى مطور ويب ذو خبرة لإنشاء موقعهم الإلكتروني.",
+          "result": "تم تسليم الموقع في 3 أسابيع، مما أدى إلى زيادة التحويلات بنسبة 150%."
+        },
+        "villaowner": {
+          "client": "مالك فيلا",
+          "service": "السباكة",
+          "professional": "كريم م.",
+          "description": "كان مالك فيلا بحاجة إلى تجديد شامل للسباكة في وقت قصير.",
+          "result": "تم إنجاز جميع الأعمال في 5 أيام، مع توفير 30% من الميزانية الأولية."
+        },
+        "restaurant": {
+          "client": "مطعم محلي",
+          "service": "التصميم الجرافيكي",
+          "professional": "سارة ل.",
+          "description": "كان مطعم محلي يسعى لتحديث هويته البصرية لجذب المزيد من العملاء.",
+          "result": "أدى التصميم الجديد إلى زيادة عدد الزوار بنسبة 75% في شهرين."
+        }
+      },
+      "types": {
+        "digital": "الخدمات الرقمية",
+        "home": "الخدمات المنزلية"
+      }
+    }
+  },
+  "dashboard": {
+    "nav": {
+      "overview": "نظرة عامة",
+      "projects": "المشاريع",
+      "messages": "الرسائل",
+      "earnings": "الأرباح",
+      "reviews": "التقييمات",
+      "freelancers": "المحترفون",
+      "contracts": "العقود",
+      "settings": "الإعدادات"
+    },
+    "overview": {
+      "title": "لوحة التحكم",
+      "subtitle": "مرحباً بعودتك!"
+    },
+    "stats": {
+      "activeProjects": "المشاريع النشطة",
+      "activeProjectsDesc": "عدد المشاريع الجارية حالياً",
+      "earnings": "الأرباح",
+      "earningsDesc": "إجمالي أرباحك في الشهر الحالي",
+      "rating": "التقييم",
+      "ratingDesc": "متوسط تقييم العملاء لك",
+      "messages": "الرسائل",
+      "messagesDesc": "عدد الرسائل غير المقروءة",
+      "fromLastMonth": "مقارنة بالشهر الماضي"
+    },
+    "recentProjects": "المشاريع الحالية",
+    "client": "العميل",
+    "freelancer": "المحترف",
+    "deadline": "الموعد النهائي",
+    "viewAllProjects": "عرض جميع المشاريع"
+  },
+  "projects": {
+    "websiteDevelopment": "تطوير موقع إلكتروني",
+    "mobileAppDesign": "تصميم تطبيق جوال",
+    "status": {
+      "inProgress": "قيد التنفيذ",
+      "review": "قيد المراجعة",
+      "completed": "مكتمل"
+    }
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "description": "إدارة تفضيلات وإعدادات حسابك",
+    "language": {
+      "title": "اللغة",
+      "description": "اختر لغتك المفضلة",
+      "system": "استخدم لغة النظام"
+    },
+    "theme": {
+      "title": "المظهر",
+      "light": "فاتح",
+      "dark": "داكن",
+      "system": "النظام"
+    }
+  },
+  "search": {
+    "input": {
+      "placeholder": "ما هي الخدمة التي تبحث عنها؟"
+    },
+    "buttons": {
+      "search": "بحث",
+      "filters": "تصفية",
+      "show": "عرض",
+      "reset": "إعادة تعيين",
+      "apply": "تطبيق",
+      "viewmap": "عرض الخريطة"
+    },
+    "filters": {
+      "title": "التصفية",
+      "categories": {
+        "label": "الفئات",
+        "placeholder": "اختر الفئات",
+        "title": "فئات الخدمات"
+      },
+      "skills": {
+        "label": "المهارات",
+        "placeholder": "اختر المهارات"
+      },
+      "location": {
+        "label": "الموقع",
+        "placeholder": "اختر الموقع"
+      },
+      "budget": {
+        "label": "الميزانية",
+        "placeholder": "اختر الميزانية",
+        "title": "نطاق الميزانية",
+        "under": "أقل من",
+        "between": "بين",
+        "above": "أكثر من",
+        "options": {
+          "low": "اقتصادي",
+          "mid": "متوسط",
+          "high": "مميز"
+        }
+      },
+      "availability": {
+        "label": "التوفر",
+        "placeholder": "اختر التوفر",
+        "title": "التوفر",
+        "options": {
+          "immediate": "فوري",
+          "today": "اليوم",
+          "this_week": "هذا الأسبوع",
+          "next_week": "الأسبوع القادم"
+        }
+      },
+      "experience": {
+        "label": "الخبرة",
+        "placeholder": "اختر مستوى الخبرة",
+        "title": "مستوى الخبرة",
+        "options": {
+          "entry": "مبتدئ",
+          "intermediate": "متوسط",
+          "expert": "خبير"
+        }
+      },
+      "buttons": {
+        "reset": "إعادة تعيين",
+        "show": "عرض النتائج"
+      }
+    }
+  },
+  "auth": {
+    "success": "تم بنجاح",
+    "successdescription": "تم إنشاء حسابك بنجاح",
+    "error": "خطأ",
+    "errordescription": "حدث خطأ أثناء إنشاء حسابك",
+    "buttons": {
+      "back": "رجوع",
+      "submit": "إرسال",
+      "next": "التالي",
+      "signin": "تسجيل الدخول"
+    },
+    "createaccount": "إنشاء حساب",
+    "createaccountdescription": "أنشئ حسابك وابدأ في استخدام المنصة",
+    "or": "أو",
+    "continuewithfacebook": "المتابعة باستخدام فيسبوك",
+    "continuewithgoogle": "المتابعة باستخدام جوجل",
+    "byclickingcontinue": "بالنقر على متابعة، فإنك توافق على",
+    "terms": "الشروط والأحكام",
+    "and": "و",
+    "privacy": "سياسة الخصوصية",
+    "welcomeback": "مرحباً بعودتك",
+    "signindescription": "أدخل بيانات حسابك للوصول إلى حسابك",
+    "orcontinuewith": "أو المتابعة باستخدام",
+    "forgotpassword": "نسيت كلمة المرور؟",
+    "signin": "تسجيل الدخول",
+    "noaccount": "ليس لديك حساب؟",
+    "passwordstrength": {
+      "weak": "ضعيف",
+      "fair": "مقبول",
+      "good": "جيد",
+      "strong": "قوي"
+    },
+    "fields": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "profession": "المهنة",
+      "skills": "المهارات",
+      "experience": "الخبرة",
+      "hourlyRate": "السعر بالساعة",
+      "companyName": "اسم الشركة",
+      "industry": "مجال العمل",
+      "projectDescription": "وصف المشروع"
+    },
+    "placeholders": {
+      "confirmPassword": "تأكيد كلمة المرور",
+      "name": "أدخل اسمك الكامل",
+      "email": "أدخل بريدك الإلكتروني",
+      "password": "أدخل كلمة المرور"
+    },
+    "validation": {
+      "nameRequired": "الاسم مطلوب",
+      "emailInvalid": "البريد الإلكتروني غير صالح",
+      "passwordRequired": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+      "passwordsDoNotMatch": "كلمات المرور غير متطابقة"
+    },
+    "haveAccount": "هل لديك حساب؟",
+    "signUp": "إنشاء حساب",
+    "namePlaceholder": "اسمك الكامل",
+    "emailPlaceholder": "بريدك الإلكتروني",
+    "passwordPlaceholder": "كلمة المرور",
+    "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+    "selectProfession": "اختر مهنتك",
+    "selectExperience": "اختر مستوى خبرتك",
+    "skillsPlaceholder": "مهاراتك",
+    "bioPlaceholder": "أخبرنا عن نفسك",
+    "locationPlaceholder": "موقعك",
+    "hourlyRatePlaceholder": "سعرك بالساعة",
+    "companyNamePlaceholder": "اسم شركتك",
+    "selectIndustry": "اختر مجال عملك",
+    "selectCompanySize": "حجم الشركة",
+    "termsNotice": "بالمتابعة، أنت توافق على شروط الاستخدام",
+    "privacyPolicy": "سياسة الخصوصية",
+    "rememberMe": "تذكرني",
+    "errors": {
+      "required": "هذا الحقل مطلوب",
+      "invalidEmail": "البريد الإلكتروني غير صالح",
+      "passwordMismatch": "كلمات المرور غير متطابقة",
+      "minLength": "يجب أن يكون طول النص {{min}} أحرف على الأقل",
+      "maxLength": "يجب أن لا يتجاوز طول النص {{max}} حرف"
+    },
+    "createFreelancerAccount": "أنشئ حساب مستقل وابدأ في تقديم خدماتك",
+    "createClientAccount": "أنشئ حساب عميل وابدأ في البحث عن المستقلين الموهوبين",
+    "steps": {
+      "basicinfo": "المعلومات الأساسية",
+      "professional": "المعلومات المهنية",
+      "experience": "الخبرة والمهارات",
+      "company": "معلومات الشركة",
+      "project": "تفاصيل المشروع"
+    },
+    "chooseaccounttype": "اختر نوع الحساب",
+    "accounttypedescription": "حدد نوع الحساب الذي يناسب احتياجاتك",
+    "clienttitle": "عميل",
+    "clientdescription": "أبحث عن مستقلين موهوبين لمشروعي",
+    "freelancertitle": "مستقل",
+    "freelancerdescription": "أبحث عن فرص عمل وأقدم خدماتي"
+  },
+  "fields": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "companyName": "اسم الشركة",
+    "industry": "المجال",
+    "projectDescription": "وصف المشروع",
+    "profession": "المهنة",
+    "skills": "المهارات",
+    "experience": "الخبرة",
+    "hourlyRate": "السعر بالساعة"
+  },
+  "placeholders": {
+    "name": "أدخل اسمك",
+    "email": "أدخل بريدك الإلكتروني",
+    "password": "أدخل كلمة المرور",
+    "companyName": "أدخل اسم الشركة",
+    "industry": "أدخل مجال عمل الشركة",
+    "projectDescription": "اكتب وصفاً مختصراً لمشروعك",
+    "profession": "أدخل مهنتك",
+    "skills": "أدخل مهاراتك",
+    "experience": "أدخل سنوات خبرتك",
+    "hourlyRate": "أدخل سعرك بالساعة"
+  },
+  "buttons": {
+    "previous": "السابق",
+    "next": "التالي",
+    "submit": "إنشاء الحساب",
+    "facebook": "متابعة باستخدام فيسبوك",
+    "google": "متابعة باستخدام جوجل",
+    "signIn": "تسجيل الدخول"
+  },
+  "common": {
+    "next": "التالي",
+    "back": "السابق"
+  },
+  "client": "عميل",
+  "freelancer": "مستقل"
+}
